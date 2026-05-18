@@ -1,2 +1,6 @@
 # ML_step1
-isle
+
+**Step1: deeper view of linear algebra**
+(1) PCA
+(2) EVD
+(3) 
